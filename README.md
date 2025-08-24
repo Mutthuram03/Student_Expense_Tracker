@@ -1,4 +1,4 @@
-#Student Expense Tracker
+#Student Expense Tracker🎈
 
 A lightweight application that helps students record and manage their daily expenses. The project provides a clean interface to track spending, categorize expenses, and stay on budget.
 
